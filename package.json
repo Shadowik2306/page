@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "fake-server": "json-server js/data.js -p 8079",
+    "fake-server": "json-server js/data.js -p 8081",
     "start": " npm-run-all --parallel serve fake-server"
   },
   "dependencies": {
